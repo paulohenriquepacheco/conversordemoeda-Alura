@@ -33,5 +33,5 @@ O projeto consome uma API pública de câmbio [ExchangeRate-API](https://www.exc
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas-alura.git
+   git clone https://github.com/paulohenriquepacheco/conversordemoeda-Alura.git
    cd conversordemoeda-alura
